@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time News Feed",
+  "description": "An application that provides real-time updates on the latest international and domestic news using the Gemini API with Google Search grounding.",
+  "requestFramePermissions": []
+}
